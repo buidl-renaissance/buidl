@@ -2,5 +2,5 @@
 
 ## License
 
-This project is licensed under the  License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the  License - see the [LICENSE](README_LICENSE.md) file for details.
 
